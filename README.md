@@ -19,7 +19,7 @@ Passionate about transforming raw data into actionable insights, designing inter
 * **Tools:** Google BigQuery, Gelişmiş SQL (CTEs, Window Functions, Joins)
 * **Description:** Büyük hacimli veri setlerinin bulut ortamında modellenmesi, veri temizliği ve analitik sorgu optimizasyonu süreçleri.
 * **🔗 Active Workspaces:** 
-  * [Google BigQuery Workspace - Session 1](https://console.cloud.google.com/bigquery?sq=21524424595:5b5f01b01ff349088790596b33e524b8)
+  * [Google BigQuery Workspace - e-commerce_events_analytics](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-279cf552-637b-40cd-b5c!2sus-central1!3sbc0d6c1e-975c-41a0-9f7a-62f1b7fbaed0!2e1)
   * [Google BigQuery Workspace - Session 2](https://console.cloud.google.com/bigquery?sq=21524424595:8f97b26583e94a6e962009ef592b7306)
 
 ### 📈 2. Interactive Business Intelligence (BI) Dashboards
