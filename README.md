@@ -38,6 +38,12 @@ Passionate about transforming raw data into actionable insights, designing inter
   * [Amplitude Analytics Dashboard](https://app.amplitude.com/analytics/demo/dashboard/wrndi0vx?source=copy+url)
   * [Google Analytics 4 (GA4) Reporting Hub](https://analytics.google.com/analytics/web/#/a54516992p213025502/reports/reportinghub?params=_u..nav%3Dmaui)
 
+### 🐍 4. Python Data Science & Advanced Workspace Analytics
+* **Tools:** Python (Pandas, NumPy, Matplotlib), Jupyter/DataLab Environment
+* **Description:** Ham verilerin Python kütüphaneleri kullanılarak temizlenmesi, keşifsel veri analizi (EDA) süreçlerinin yürütülmesi ve istatistiksel raporlama çalışmaları.
+* **🔗 Active Workspaces:**
+  * [DataCamp DataLab Workspace - Portfolio Project 1](https://www.datacamp.com/datalab/w/1d25d38d-f92c-41ab-a849-1a8fd9915dbe/edit)
+  * [DataCamp DataLab Workspace - Portfolio Project 2](https://www.datacamp.com/datalab/w/00d33a46-9151-480e-a678-e09eb51778da/edit)
 ---
 
 ## 📫 Connect with me:
