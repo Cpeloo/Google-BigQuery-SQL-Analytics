@@ -20,7 +20,7 @@ Passionate about transforming raw data into actionable insights, designing inter
 * **Description:** Büyük hacimli veri setlerinin bulut ortamında modellenmesi, veri temizliği ve analitik sorgu optimizasyonu süreçleri.
 * **🔗 Active Workspaces:** 
   * [Google BigQuery Workspace - e-commerce_events_analytics](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-279cf552-637b-40cd-b5c!2sus-central1!3sbc0d6c1e-975c-41a0-9f7a-62f1b7fbaed0!2e1)
-  * [Google BigQuery Workspace - Session 2](https://console.cloud.google.com/bigquery?sq=21524424595:8f97b26583e94a6e962009ef592b7306)
+  * [Google BigQuery Workspace - events_analytics](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-279cf552-637b-40cd-b5c!2sus-central1!3s3b87e7b2-e863-48fb-be28-c2b64d347ec9!2e1)
 
 ### 📈 2. Interactive Business Intelligence (BI) Dashboards
 * **Tools:** Tableau Public, Power BI, Looker Studio
@@ -34,6 +34,7 @@ Passionate about transforming raw data into actionable insights, designing inter
 * **Tools:** Amplitude, Google Analytics 4 (GA4)
 * **Description:** Kullanıcı davranışları, dönüşüm hunileri (Conversion Funnels), müşteri tutundurma (Retention/Cohort) analizleri ve web/mobil trafik performans takibi.
 * **🔗 Analytics Consoles:**
+  * [Google e-sheets tracking_plan](https://docs.google.com/spreadsheets/d/1V8iVNja8zCJ8DI5D0fSB6dX0J5nEGY0ezAHbVw67w2s/edit?usp=sharing)
   * [Amplitude Analytics Dashboard](https://app.amplitude.com/analytics/demo/dashboard/wrndi0vx?source=copy+url)
   * [Google Analytics 4 (GA4) Reporting Hub](https://analytics.google.com/analytics/web/#/a54516992p213025502/reports/reportinghub?params=_u..nav%3Dmaui)
 
